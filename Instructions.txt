@@ -1,0 +1,5 @@
+To run this model locally use command : streamlit run [main_app.py File location]
+
+Model trained on google collab for performance
+
+THANK YOU
